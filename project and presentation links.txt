@@ -1,0 +1,3 @@
+project : https://www.kaggle.com/code/ahmedmogaber/mushroom-classification
+
+presentation :  https://view.genial.ly/628cf36168e5440011529031/presentation-mushroom-classification
